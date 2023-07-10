@@ -15,8 +15,8 @@ This repository contains the R code used in this study to pre-process and analys
 
 
 #### Authors
-Saumya Kumar & Martijn Zoodsma
-Principal investigator: Yang Li
+Saumya Kumar & Martijn Zoodsma  
+Principal investigator: Yang Li  
 Centre for Individualised Infection Medicine, Helmholtz Centre for Infection Research
 Hanover, Germany.
 
